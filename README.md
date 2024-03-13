@@ -8,6 +8,7 @@ git clone
 - [X] utworzenie repozytorium Git z VSC
 - [X] utworzenie README.md
 - [X] włączenie ochrony master brancha w Github
-- [X] tworzenie branchy i commitów
+- [X] tworzenie branchy i commitów, analiza postępów na Github
+- [ ] branche 3 stopnia
 - [X] tworzenie PR (pull request)
 
