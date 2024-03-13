@@ -9,6 +9,6 @@ git clone
 - [X] utworzenie README.md
 - [X] włączenie ochrony master brancha w Github
 - [X] tworzenie branchy i commitów, analiza postępów na Github
-- [ ] branche 3 stopnia
+- [X] branche 3 stopnia
 - [X] tworzenie PR (pull request)
 
